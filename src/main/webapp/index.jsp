@@ -1,5 +1,5 @@
 <html>
-<body style="background-color:#4FFF33">
+<body style="background-color:#2E64FE">
 <h2>Hello World!</h2>
 <h3>version 0.0.7 </h3>
 
